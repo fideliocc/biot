@@ -33,16 +33,16 @@ Please download and add these libraries to your local directory. You can search 
 ## **Installation**
 Download and install the Arduino IDE to work with Arduino hardware. Visit 
 First, you need to build your circuit following the diagram below:
-![Image](https://drive.google.com/file/d/1FKw46MOeLCnN28WIfQYvlIxZTrtu5kKt/view?usp=sharing)
 
-
+![Image](https://drive.google.com/uc?export=view&id=1FKw46MOeLCnN28WIfQYvlIxZTrtu5kKt)
 
 Then you can edit, compile and upload the *biot.ino* sketch to your Arduino Yún vía USB. Remember that you have to replace the *TOKEN* constant with your unique Ubidots Token. Your Yún has to be correctly configured to work on a near WiFi network. If you need some help with this can visit the oficial documentation, or email me :)
 
 Finally, create your devices, variables and dashboard to visualize your data. Visit the demo to have a better idea to your future dashboard. 
 
-For a better understanding (and fun!) the LCD shows sensors values changing in time beside cool icons. If you are interested on make your own, visit [https://maxpromer.github.io/LCD-Character-Creator/](https://maxpromer.github.io/LCD-Character-Creator/)
- 
+For a better understanding (and fun!) the LCD shows sensors values changing in time beside cool icons. If you are interested on make your own, visit [https://maxpromer.github.io/LCD-Character-Creator/](https://maxpromer.github.io/LCD-Character-Creator/) 
+
+https://drive.google.com/uc?export=view&id=1p5QRjoTxo-CyeB5AG1LNZ0iL8kS9ZWfl/
 
 ## **Author**
 Erick Calle Castillo | ecalle17@gmail.com
