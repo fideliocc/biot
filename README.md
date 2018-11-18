@@ -24,17 +24,17 @@ Tracking temperature, air humidity and soil moisture on cloud through and Arduin
 
 ## **Libraries**
 Please download and add these libraries to your local directory. You can search for more info about:
-**- UbidotsYUN:** Ubidots library for Yún, very easy ([https://github.com/ubidots/ubidots-arduino-yun](https://github.com/ubidots/ubidots-arduino-yun))
-**- DHT:** DHT22 sensor library ([https://github.com/adafruit/DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library))
-**- LiquidCrystal:** For LCD display handling ([https://github.com/arduino-libraries/LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal))
-**- FileIO:** for SD Card usage
-**- Process:** base class for all Bridge based calls
+- **UbidotsYUN:** Ubidots library for Yún, very easy ([https://github.com/ubidots/ubidots-arduino-yun](https://github.com/ubidots/ubidots-arduino-yun))
+- **DHT:** DHT22 sensor library ([https://github.com/adafruit/DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library))
+- **LiquidCrystal:** For LCD display handling ([https://github.com/arduino-libraries/LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal))
+- **FileIO:** for SD Card usage
+- **Process:** base class for all Bridge based calls
 
 ## **Installation**
 Download and install the Arduino IDE to work with Arduino hardware. Visit 
 First, you need to build your circuit following the diagram below:
+![Image](https://drive.google.com/file/d/1FKw46MOeLCnN28WIfQYvlIxZTrtu5kKt/view?usp=sharing)
 
-![Image](/Users/Erick/Documents/medley/resources/By764dEJAm_rJTgWUkCQ.jpg)
 
 
 Then you can edit, compile and upload the *biot.ino* sketch to your Arduino Yún vía USB. Remember that you have to replace the *TOKEN* constant with your unique Ubidots Token. Your Yún has to be correctly configured to work on a near WiFi network. If you need some help with this can visit the oficial documentation, or email me :)
@@ -42,8 +42,7 @@ Then you can edit, compile and upload the *biot.ino* sketch to your Arduino Yún
 Finally, create your devices, variables and dashboard to visualize your data. Visit the demo to have a better idea to your future dashboard. 
 
 For a better understanding (and fun!) the LCD shows sensors values changing in time beside cool icons. If you are interested on make your own, visit [https://maxpromer.github.io/LCD-Character-Creator/](https://maxpromer.github.io/LCD-Character-Creator/)
-
-![Image](/Users/Erick/Documents/medley/resources/By764dEJAm_BkyvjU1R7.jpg)
+ 
 
 ## **Author**
 Erick Calle Castillo | ecalle17@gmail.com
