@@ -42,7 +42,8 @@ Finally, create your devices, variables and dashboard to visualize your data. Vi
 
 For a better understanding (and fun!) the LCD shows sensors values changing in time beside cool icons. If you are interested on make your own, visit [https://maxpromer.github.io/LCD-Character-Creator/](https://maxpromer.github.io/LCD-Character-Creator/) 
 
-https://drive.google.com/uc?export=view&id=1p5QRjoTxo-CyeB5AG1LNZ0iL8kS9ZWfl/
+
+
 
 ## **Author**
 Erick Calle Castillo | ecalle17@gmail.com
